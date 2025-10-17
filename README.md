@@ -18,7 +18,7 @@ What the program prints on startup
 2. Enter target length (or 'q' to quit): This number must be an integer (whole number) greater than or equal to 0. 
   The program returns any titles with exact length N; if none, it returns the title(s) whose length is closest to N (ties included).
 3. Use q (or quit / exit) to exit the program.
-Essential usage notes (copy-pasteable)
+4. Essential usage notes (copy-pasteable)
   Do NOT paste shell/PowerShell commands into the program prompt — quit the program first (q), then paste the shell command into PowerShell.
   If the program prints “using sample list”, type list to confirm the small fallback list is loaded.
   If CSV should have loaded but didn’t, run this in PowerShell and paste the output back to me:
